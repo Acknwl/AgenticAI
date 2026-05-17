@@ -12,6 +12,7 @@ This repository is organized as a book-style reference for developers, researche
 - **Preface**
 - **Part I: Foundations**
   - What Is Agentic AI?
+    https://varishgautam.substack.com/p/agentic-ai-from-zero-to-production
   - The Agent Loop
 - **Part II: Tools & Protocols**
   - Designing Tools
